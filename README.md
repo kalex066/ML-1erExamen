@@ -9,7 +9,7 @@ Análisis exploratorio y modelado predictivo sobre un dataset de transacciones r
 | Archivo | Descripción |
 |---|---|
 | `retail_sales_dataset.csv` | Dataset original — 1,000 transacciones, 9 columnas. |
-| `analisis_retail_sales.ipynb` | Notebook principal: limpieza, exploración de datos y modelado. |
+| `ExamenML1st.ipynb` | Notebook principal: limpieza, exploración de datos y modelado. |
 
 ---
 
